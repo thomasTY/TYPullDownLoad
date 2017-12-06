@@ -131,7 +131,6 @@ export default { // 本组件应该放在list-box内，和每条列表记录同�
         scrollTop = document.body.scrollTop // 页面到浏览器顶部的距离
         startX = e.touches[0].pageX
         startY = e.touches[0].pageY
-        // console.log(scrollTop)
       }, false)
       parentNode.addEventListener('touchmove', function (e) {
         moveEndX = e.touches[0].pageX
