@@ -4,7 +4,7 @@
 
 ## Demo地址
 
-[https://thomasty.github.io/TYPullDownLoad/#/](https://thomasty.github.io/TYPullDownLoad/#/)
+[https://thomasty.github.io/TYPullDownLoad/dist/#/](https://thomasty.github.io/TYPullDownLoad/dist/#/)
 
 ## Build Setup
 
