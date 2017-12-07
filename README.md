@@ -1,6 +1,10 @@
-# ty_pull_up_load
+# TYPullDownLoad
 
-> A Vue.js project
+> 基于vue封装的下拉刷新组件
+
+## Demo地址
+
+[https://thomasty.github.io/TYPullDownLoad/#/](https://thomasty.github.io/TYPullDownLoad/#/)
 
 ## Build Setup
 
